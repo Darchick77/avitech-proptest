@@ -43,6 +43,8 @@ This software controls high-speed rotating equipment. Always ensure:
 1. Your test stand is physically secured and shielded.
 2. A physical "Emergency Stop" or power disconnect is within reach.
 3. You are wearing appropriate safety gear.
+
+
 ⚖️ Legal & Copyright
 Copyright © 2026 Avitech Engineering. All rights reserved.
 This software is the proprietary property of Avitech Engineering. No part of this software may be copied, distributed, modified, or used for commercial purposes without express written permission from the copyright holder. This repository is for demonstration and archival purposes only.
