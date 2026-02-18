@@ -4,11 +4,6 @@
 
 
 
-
-https://github.com/user-attachments/assets/d39c70d5-7ede-4a6e-bf2f-4a57f888241e
-
-
-
 ## ✨ Key Features
 
 * **Real-time Monitoring:** Visualizes Current (A), Voltage (V), and RPM with high precision.
