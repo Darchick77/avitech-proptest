@@ -2,6 +2,10 @@
 
 **Avitech PropTest** is a professional Python-based desktop application designed for real-time monitoring and control of propulsion test stands. It provides high-speed data visualization and manual PWM control for BLDC motor analysis.
 
+
+Uploading pop.gif.mp4…
+
+
 ## ✨ Key Features
 
 * **Real-time Monitoring:** Visualizes Current (A), Voltage (V), and RPM with high precision.
